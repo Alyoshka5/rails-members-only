@@ -1,0 +1,48 @@
+#index {
+    padding: 0 30px;
+
+h1 {
+    color: #914d9e;
+    font-weight: lighter;
+}
+
+.post-card {
+    background-color: #efefef;
+    margin-bottom: 20px;
+    padding: 15px 20px;
+    width: 600px;
+    min-height: 50px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px rgb(186, 186, 186);
+
+    p {
+        padding: 0;
+        margin: 0;
+        font-size: 18px;
+    }
+
+    .name {
+        font-weight: bold;
+        color: #703c7a;
+    }
+
+    .username {
+        font-size: 15px;
+    }
+
+    .content {
+        margin-top: 5px;
+    }
+}
+
+
+
+
+
+
+
+
+
+}
+
